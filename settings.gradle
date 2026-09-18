@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Jev Voice"
-include(":app")
+include ':app'
