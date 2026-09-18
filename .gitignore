@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# Anahtarlar — ASLA commitlenmez
+*.jks
+*.keystore
+google-services.json
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Keystore / secrets
+secrets.properties

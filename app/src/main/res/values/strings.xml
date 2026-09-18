@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jev Voice</string>
+    <string name="api_key_hint">TypeSafe API anahtarı</string>
+    <string name="save">Kaydet</string>
+    <string name="no_key">Anahtar kayıtlı değil — yukarıdan girin (sadece telefonda saklanır).</string>
+    <string name="key_saved">Anahtar güvenli şekilde telefona kaydedildi.</string>
+    <string name="command_hint">Sesli komut veya yazı (örn. 10 dakika sonra su içmemi hatırlat)</string>
+    <string name="listen">🎤 Dinle</string>
+    <string name="listening">Dinleniyor… konuşun</string>
+    <string name="analyze">Jev\'e Sor</string>
+    <string name="ready">Hazır. 🎤 Dinle\'ye basıp Türkçe konuşun.</string>
+</resources>
